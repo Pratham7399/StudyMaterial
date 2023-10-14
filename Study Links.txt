@@ -1,0 +1,116 @@
+Projects and Blogs
+
+Use React and APIs to Build a Weather App
+https://www.freecodecamp.org/news/use-react-and-apis-to-build-a-weather-app/
+https://auth0.com/blog/java-spring-boot-microservices/
+
+https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/
+
+Movie Review App
+https://www.freecodecamp.org/news/full-stack-development-with-mongodb-java-and-react/
+
+Public APIs
+https://www.freecodecamp.org/news/public-apis-for-developers/
+
+https://dev.to/idurar/building-an-invoice-pdf-system-with-reactjs-redux-and-nodejs-5g1a
+
+https://dev.to/novu/2-tricks-to-build-a-meetupcom-clone-with-react-in-30-minutes-9hm
+
+
+==================================================================================================================
+
+
+Learning
+https://books.goalkicker.com/
+
+https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/
+
+The liinks on this site are intersting
+https://levelup.gitconnected.com/10-best-websites-to-practice-java-programming-and-coding-interview-questions-1d2731d8a852
+
+https://medium.com/@kenruizinoue/algorithms-data-structures-in-java-array-level-1-f3e2e50f9c78
+
+How JS works 
+https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/
+https://www.freecodecamp.org/news/how-javascript-works-behind-the-scenes/
+
+How recursion works in Java
+https://blog.hubspot.com/website/recursion-java
+
+Json in Java
+https://levelup.gitconnected.com/a-crash-course-on-json-with-java-129fd327590d
+
+Building Neural Network in Java
+https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.html
+https://levelup.gitconnected.com/23-design-patterns-99-of-java-developers-should-learn-45573e076b69
+
+
+
+Handling common exceptions in Java
+https://javatechonline.com/how-to-resolve-common-java-exceptions/
+
+
+Java Interview Questions(deep understanding 
+https://howtodoinjava.com/java-interview-questions/
+
+
+Adv Js to write high quality code
+https://www.paulsblog.dev/advanced-javascript-concepts-to-write-high-quality-code-that-scales/
+
+Getting Started with NodeJs
+https://www.freecodecamp.org/news/get-started-with-nodejs/
+
+https://dev.to/rajrathod/system-design-introduction-9o8
+
+Mastering API dev
+https://www.linkedin.com/posts/parasmayur_api-softwareengineer-restapi-activity-7101178974935904256-pNm-?utm_source=share&utm_medium=member_android
+
+Mastering the Fundamentals of Cache for Systems Design Interview
+https://javachallengers.com/cache-systems-design/
+
+
+
+https://piotrminkowski.com/2023/08/29/introduction-to-grpc-with-spring-boot/
+
+
+Top 100 C++ Coding Interview Questions and Answers (2023)
+https://www.geeksforgeeks.org/cpp-coding-interview-questions-and-answers/
+
+
+Deploy a frontend on AWS
+https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-deploy-a-frontend-31a6
+
+Comparing Java verions
+https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-21/
+==================================================================================================================
+
+
+
+Other info and guides
+Java Developer Roadmap in 2023 | Simplilearn
+https://www.simplilearn.com/java-developer-roadmap-article
+https://parikh.app/backend-developer-roadmap
+
+How to become a successfull java developer - Studytosuccess.in https://studytosuccess.in/web-stories/how-to-become-a-successfull-java-developer/
+
+10 github repo to grow as a developer
+https://dev.to/iarchitsharma/10-as-a-developer-egn
+
+==================================================================================================================
+
+
+
+
+Important linkedIn Posts
+DSA links
+https://www.linkedin.com/posts/activity-7076389427509379072-0fz_?utm_source=share&utm_medium=member_android
+OOPS
+https://www.linkedin.com/posts/ritwik-b59a65222_important-topics-of-object-oriented-programming-activity-7116377670665289729-1Rbw?utm_source=share&utm_medium=member_android
+
+Riti Kumari's repo
+https://github.com/riti2409/Resources-for-preparation-Of-Placements
+
+https://blog.joberty.de/best-github-repositories/
+
+https://www.tecmint.com/funny-linux-commands/
+
